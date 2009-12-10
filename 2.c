@@ -12,7 +12,7 @@ int main(void)
 	}
 
 	sum = j;
-
+	fun();
 	return sum;
 
 }	
