@@ -1,3 +1,7 @@
+int fun()
+{
+}
+
 int main(void)
 {
 
